@@ -75,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/DRG/proprietary/vendor/firmware/gxfp3258_drg.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/gxfp3258_drg.mdt
 
 PRODUCT_PACKAGES += \
-    libseemore \
     libsensor1 \
     libsensor_reg \
     sensor_calibrate \
@@ -99,7 +98,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_smart_denoise \
     libaudcal \
     libaudioalsa \
-    libc++_shared \
     libchromatix_s5k3p9sx_drg_front_2nd_common \
     libchromatix_s5k3p9sx_drg_front_2nd_cpp_hfr_120 \
     libchromatix_s5k3p9sx_drg_front_2nd_cpp_hfr_60 \
