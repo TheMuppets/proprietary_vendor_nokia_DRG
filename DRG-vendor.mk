@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/DRG/proprietary/vendor/etc/mixer_paths_drg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_drg.xml \
     vendor/nokia/DRG/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
     vendor/nokia/DRG/proprietary/vendor/etc/sensors/sensor_def_qcomdev_drg.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev_drg.conf \
+    vendor/nokia/DRG/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/nokia/DRG/proprietary/vendor/etc/wifi/aoa_cldb_falcon.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_falcon.bin \
     vendor/nokia/DRG/proprietary/vendor/etc/wifi/aoa_cldb_swl14.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/aoa_cldb_swl14.bin \
     vendor/nokia/DRG/proprietary/vendor/etc/wifi/bdf/bdwlan_DRG_cal.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdf/bdwlan_DRG_cal.bin \
