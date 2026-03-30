@@ -15,6 +15,8 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/DRG/sdm660-snd-card-drg/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/DRG/sdm660-snd-card-drg/Speaker_cal.acdb \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/nokia/DRG/proprietary/vendor/etc/audio_platform_info_drg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_drg.xml \
+    vendor/nokia/DRG/proprietary/vendor/etc/camera/calibration_test.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/calibration_test.bin \
+    vendor/nokia/DRG/proprietary/vendor/etc/camera/camera_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camera_config.xml \
     vendor/nokia/DRG/proprietary/vendor/etc/camera/s5k3p9sx_drg_front_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p9sx_drg_front_chromatix.xml \
     vendor/nokia/DRG/proprietary/vendor/etc/camera/s5k3p9sx_drg_main_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p9sx_drg_main_chromatix.xml \
     vendor/nokia/DRG/proprietary/vendor/etc/camera/s5k5e9_drg_aux_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e9_drg_aux_chromatix.xml \
