@@ -13,6 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/DRG/sdm660-snd-card-drg/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/DRG/sdm660-snd-card-drg/Hdmi_cal.acdb \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/DRG/sdm660-snd-card-drg/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/DRG/sdm660-snd-card-drg/Headset_cal.acdb \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/DRG/sdm660-snd-card-drg/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/DRG/sdm660-snd-card-drg/Speaker_cal.acdb \
+    vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/DRG/sdm660-snd-card-drg/workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/DRG/sdm660-snd-card-drg/workspaceFile.qwsp \
     vendor/nokia/DRG/proprietary/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
     vendor/nokia/DRG/proprietary/vendor/etc/audio_platform_info_drg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_drg.xml \
     vendor/nokia/DRG/proprietary/vendor/etc/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
